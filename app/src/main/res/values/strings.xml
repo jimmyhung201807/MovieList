@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SplashTest</string>
+    <string name="app_Text">ABC</string>
+    <string name="app_Text2">123</string>
 </resources>
